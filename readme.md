@@ -17,6 +17,9 @@ Selects all object in the scene with mesh renderer
 ## What does this mean in practice?
 TO use this program as intented grad in the moddels in the scene then press ctrl+Shift+Alt+U and then ur done.
 
+## Bugs
+- doesn't worked with rigged characters
+
 ## Roadmap
 - Remove meta
 - MAke it better
